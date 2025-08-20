@@ -1,0 +1,14 @@
+NAVIGATE https://google.com
+NAVIGATE https://ku.edu
+NAVIGATE https://boardgamegeek.com
+HISTORY
+BACK
+BACK
+NAVIGATE https://betterlivingthroughcrockpots.com
+NAVIGATE https://eshmakeindustries.com
+BACK
+HISTORY
+NAVIGATE https://dinogames.com
+FORWARD
+HISTORY
+EXIT
